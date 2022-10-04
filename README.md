@@ -1,9 +1,11 @@
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGQhrdopXzzZA/profile-displaybackgroundimage-shrink_200_800/0/1661959611254?e=1670457600&v=beta&t=sQMpxeLBB_ZpRtAQmF048oLF0J-c1bmuiJManSNk46M)
+
 <h1 align="center">Hi 👋, I'm Amarnath Pandey</h1>
-<h3 align="center">A Genius developer from India working on NPO amTop</h3>
+<h3 align="center">A Genius developer from India working on amTop a NPO</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGXlqRgKLLebQ/company-logo_200_200/0/1661792968988?e=1672876800&v=beta&t=HRGJ4JkxzHUW-kKmcccW0RiTaGUbh7mbnDF0myR-SjY">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarnath1904&label=Profile%20views&color=0e75b6&style=flat" alt="amarnath1904" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarnath1904" alt="amarnath1904" /></a> </p>
 
 - 🔭 I’m currently working on **Amtop**
 
